@@ -11,7 +11,7 @@ Este proyecto está version Beta.
 
 # Licencia 
 
-Este software está cobijado por la licencia [GNU GPL versión 3](http://www.gnu.org/licenses/gpl-3.0.html). Es un software opensource, gratuito, de libre distribución y modificación. Si usa este software para sus investigaciones debe conservar estas mismas libertades hacia sus clientes finales y nombrar a sus autores.
+Este software está cobijado por la licencia [GNU GPL versión 3](http://www.gnu.org/licenses/gpl-3.0.html). Es un software opensource, gratuito, de libre distribución y modificación. Si usa este software debe conservar estas mismas libertades hacia sus clientes finales y nombrar a sus autores.
 
 
 ## Términos y condiciones
@@ -23,7 +23,6 @@ Consideración | Implicación
 **Garantía** | No existe ningún tipo de garantía para este software. Se distribuye como está, sin asegurar su funcionamiento o resultados.
 **Responsabilidad** | No tenemos ninguna responsabilidad en el uso que se le de al software o por las consecuencias que este genere.
 
-Lea todo el contenido de la licencia [GNU/GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) antes de usar este software.
 
 ## Copyright y derechos de autor
 
